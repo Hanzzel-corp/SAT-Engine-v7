@@ -41,3 +41,5 @@ dist/
 *.so
 
 *.pyd
+
+.vscode/
