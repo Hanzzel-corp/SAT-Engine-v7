@@ -1,13 +1,43 @@
-# Build artifacts
-build/
+.venv/
+env/
+venv/
 __pycache__/
+*.pyc
+*.pyo
 *.pyd
+
+SAT_Engine_v5/build/
+
+build/
+
+dist/
+
 *.obj
-*.dll
+
+*.lib
+
 *.exp
 
-# VSCode configs
-.vscode/
+*.dll
 
-# Python env
-env/
+*.so
+
+*.pyd
+
+SAT_Engine_v5/build/
+
+build/
+
+dist/
+
+*.obj
+
+*.lib
+
+*.exp
+
+*.dll
+
+*.so
+
+*.pyd

@@ -1,0 +1,46 @@
+📘 **NCT Unified Equation Generator — Research Log**
+Hanzzel Corp ∑Δ9 — José Zamora
+===========================================
+
+Este documento resume la evolución cuaternaria de ecuaciones generadas en el marco NCT para ilustrar sistemas no lineales, no secuenciales y sin dependencia espacio–temporal.
+
+• Iteración 01 → E = -2.976·C2 ⊗ (1.62 − C3) + -1.341·C3
+• Iteración 02 → E = -0.506·C3 ⊕ (1.137 − C2) − 1.106·C1
+• Iteración 03 → E = -2.938·C3 − (1.325 − C3) − 2.183·C2
+• Iteración 04 → E = 1.814·C2 + (2.078 − C1) ⊕ 0.596·C1
+• Iteración 05 → E = 2.081·C1 + (0.838 − C0) − -2.573·C2
+• Iteración 06 → E = 2.199·C1 ⊕ (1.558 − C0) ⊗ -1.229·C1
+• Iteración 07 → E = -2.906·C1 − (1.484 − C3) ⊕ -2.887·C1
+• Iteración 08 → E = 0.694·C1 ⊗ (-0.031 − C2) ⊕ -1.203·C1
+• Iteración 09 → E = -1.155·C2 + (0.963 − C3) ⊕ 2.268·C0
+• Iteración 10 → E = 1.35·C1 − (-2.518 − C2) ⊗ 1.146·C0
+• Iteración 11 → E = -2.384·C1 ⊕ (-0.382 − C2) ⊗ 2.238·C2
+• Iteración 12 → E = 0.07·C2 − (-0.951 − C2) ⊗ 0.504·C3
+• Iteración 13 → E = 1.589·C2 ⊗ (-1.847 − C0) ⊗ -2.311·C0
+• Iteración 14 → E = -0.187·C2 − (-1.987 − C2) ⊕ -2.195·C1
+• Iteración 15 → E = 2.469·C1 + (-0.339 − C3) + 1.918·C2
+• Iteración 16 → E = -2.083·C2 − (-1.67 − C3) ⊕ 2.972·C0
+• Iteración 17 → E = -1.006·C3 + (-0.337 − C0) + 2.742·C3
+• Iteración 18 → E = 0.757·C2 ⊗ (0.686 − C2) ⊗ 0.39·C0
+• Iteración 19 → E = -2.836·C3 ⊗ (-1.978 − C1) ⊗ -1.697·C2
+• Iteración 20 → E = 2.801·C3 + (-0.876 − C3) − 2.269·C3
+• Iteración 21 → E = -2.159·C2 ⊗ (-0.56 − C2) − 2.242·C3
+• Iteración 22 → E = -0.084·C1 ⊕ (-2.776 − C0) ⊗ -0.541·C0
+• Iteración 23 → E = 2.509·C0 + (-1.767 − C2) ⊕ 2.075·C1
+• Iteración 24 → E = 2.965·C3 − (1.662 − C3) ⊕ 1.161·C3
+• Iteración 25 → E = 2.485·C3 − (2.93 − C3) − -2.49·C3
+• Iteración 26 → E = 1.1·C3 + (2.028 − C0) + -0.678·C1
+• Iteración 27 → E = -0.684·C1 ⊗ (-0.168 − C0) + -1.792·C1
+• Iteración 28 → E = -1.361·C3 + (-0.723 − C0) ⊕ 2.569·C3
+• Iteración 29 → E = -2.252·C0 ⊗ (0.727 − C3) − -1.165·C3
+• Iteración 30 → E = 1.715·C2 + (-0.147 − C0) − 2.624·C3
+• Iteración 31 → E = -0.512·C0 + (-1.692 − C1) + 0.265·C1
+• Iteración 32 → E = 1.364·C1 − (0.365 − C0) − 0.639·C3
+• Iteración 33 → E = 0.799·C1 ⊕ (1.852 − C3) + 1.747·C1
+• Iteración 34 → E = 2.148·C3 ⊕ (0.493 − C2) − -0.691·C2
+• Iteración 35 → E = 1.132·C2 ⊕ (-1.454 − C1) ⊗ 1.224·C3
+• Iteración 36 → E = 1.474·C3 − (2.39 − C0) ⊗ -0.691·C0
+• Iteración 37 → E = -0.649·C0 ⊕ (1.144 − C1) + -0.09·C2
+• Iteración 38 → E = -2.093·C3 ⊕ (-2.132 − C0) ⊗ 2.804·C3
+• Iteración 39 → E = -0.521·C1 ⊗ (2.6 − C1) − -2.81·C3
+• Iteración 40 → E = 2.059·C1 ⊗ (-2.346 − C2) − 2.663·C3

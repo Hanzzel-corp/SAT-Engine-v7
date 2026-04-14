@@ -1,0 +1,10 @@
+# Core dependencies
+numpy>=1.21.0
+matplotlib>=3.4.0
+
+# For C++ backend (v5)
+pybind11>=2.10.0
+
+# Development
+pytest>=7.0.0
+black>=22.0.0
