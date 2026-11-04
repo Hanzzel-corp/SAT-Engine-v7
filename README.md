@@ -18,6 +18,8 @@ SAT fue el primer problema demostrado NP-completo (Teorema de Cook-Levin, 1971).
 
 ## Versiones
 
+**Nota de alcance:** el repositorio se denomina `SAT-Engine-v7`, pero esta documentación describe explícitamente las implementaciones v1–v5. No se atribuyen aquí características ni estado de lanzamiento a v6 o v7 sin documentación técnica correspondiente.
+
 | Versión | Algoritmo | Características | Archivo |
 |---------|-----------|-----------------|---------|
 | **v1** | Backtracking | Fuerza bruta exhaustiva, verificación P vs resolución NP | `sat_engine_v1.py` |
@@ -190,4 +192,11 @@ Desarrollado como proyecto evolutivo de algoritmos SAT.
 ---
 
 ⭐ **Si este proyecto te es útil, considera darle una estrella en GitHub!**
->>>>>>> 8bb0678 (feat: initial Linux setup for SAT-Engine-v7)
+
+---
+
+## Dirección de investigación y autoría
+
+**José Zamora — Investigador principal independiente (Independent Principal Investigator), Hanzzel Corp.**
+
+Este repositorio es un proyecto individual del ecosistema Hanzzel Corp. Su pertenencia al ecosistema no implica integración técnica con NCT ni validación de resultados más allá de la evidencia documentada aquí.
