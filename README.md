@@ -1,5 +1,7 @@
 # SAT Engine v7
 
+> **Nota de documentación:** este README registra la evolución descrita desde v1 hasta v5. El nombre del repositorio es v7, pero este archivo no documenta todavía el alcance ni los cambios de v6 y v7. No se infiere su contenido a partir del nombre.
+
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-17-orange)](https://isocpp.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
